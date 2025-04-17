@@ -5,7 +5,6 @@ gsap.to(".about .block", 2, {
     trigger: ".about",
     start: "top top",
     end: "bottom center",
-    // markers: true,
     scrub: true,
     pin: true,
   },
@@ -17,7 +16,6 @@ gsap.to(".stack .shapes", 2, {
     trigger: ".stack",
     start: "top center",
     end: "bottom 90%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.5,
@@ -29,7 +27,6 @@ gsap.to(".stack .card1", 2, {
     trigger: ".stack .card1",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -39,7 +36,6 @@ gsap.to(".stack .card2", 2, {
     trigger: ".stack .card2",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -49,7 +45,6 @@ gsap.to(".stack .card3", 2, {
     trigger: ".stack .card3",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -59,7 +54,6 @@ gsap.to(".stack .card4", 2, {
     trigger: ".stack .card4",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -69,7 +63,6 @@ gsap.to(".stack .card5", 2, {
     trigger: ".stack .card5",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -79,7 +72,6 @@ gsap.to(".stack .card6", 2, {
     trigger: ".stack .card6",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -89,7 +81,6 @@ gsap.to(".stack .card7", 2, {
     trigger: ".stack .card7",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -99,7 +90,6 @@ gsap.to(".stack .card8", 2, {
     trigger: ".stack .card8",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -109,7 +99,6 @@ gsap.to(".stack .card9", 2, {
     trigger: ".stack .card9",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -119,7 +108,6 @@ gsap.to(".stack .card10", 2, {
     trigger: ".stack .card10",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -129,7 +117,6 @@ gsap.to(".stack .card11", 2, {
     trigger: ".stack .card11",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -139,7 +126,6 @@ gsap.to(".stack .card12", 2, {
     trigger: ".stack .card12",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -149,7 +135,6 @@ gsap.to(".stack .card13", 2, {
     trigger: ".stack .card13",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -159,7 +144,6 @@ gsap.to(".stack .card14", 2, {
     trigger: ".stack .card14",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -169,7 +153,6 @@ gsap.to(".stack .card15", 2, {
     trigger: ".stack .card15",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -179,7 +162,6 @@ gsap.to(".stack .card16", 2, {
     trigger: ".stack .card16",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -189,7 +171,6 @@ gsap.to(".stack .card17", 2, {
     trigger: ".stack .card17",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -199,7 +180,6 @@ gsap.to(".stack .card18", 2, {
     trigger: ".stack .card18",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -209,7 +189,6 @@ gsap.to(".stack .card19", 2, {
     trigger: ".stack .card19",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -219,7 +198,6 @@ gsap.to(".stack .card20", 2, {
     trigger: ".stack .card20",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -229,7 +207,6 @@ gsap.to(".stack .card21", 2, {
     trigger: ".stack .card21",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -239,7 +216,6 @@ gsap.to(".stack .card22", 2, {
     trigger: ".stack .card22",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
@@ -249,182 +225,165 @@ gsap.to(".stack .card23", 2, {
     trigger: ".stack .card23",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   scale: 1.1,
 });
 
-gsap.to(".services .service1 .content", 2, {
+gsap.to(".experiences .experience1 .content", 2, {
   scrollTrigger: {
-    trigger: ".services .service1 .content",
+    trigger: ".experiences .experience1 .content",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service2 .content", 2, {
+gsap.to(".experiences .experience2 .content", 2, {
   scrollTrigger: {
-    trigger: ".services .service2 .content",
+    trigger: ".experiences .experience2 .content",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service3 .content", 2, {
+gsap.to(".experiences .experience3 .content", 2, {
   scrollTrigger: {
-    trigger: ".services .service3 .content",
+    trigger: ".experiences .experience3 .content",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service4 .content", 2, {
+gsap.to(".experiences .experience4 .content", 2, {
   scrollTrigger: {
-    trigger: ".services .service4 .content",
+    trigger: ".experiences .experience4 .content",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service5 .content", 2, {
+gsap.to(".experiences .experience5 .content", 2, {
   scrollTrigger: {
-    trigger: ".services .service5 .content",
+    trigger: ".experiences .experience5 .content",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service6 .content", 2, {
+gsap.to(".experiences .experience6 .content", 2, {
   scrollTrigger: {
-    trigger: ".services .service6 .content",
+    trigger: ".experiences .experience6 .content",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service7 .content", 2, {
+gsap.to(".experiences .experience7 .content", 2, {
   scrollTrigger: {
-    trigger: ".services .service7 .content",
+    trigger: ".experiences .experience7 .content",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service8 .content", 2, {
+gsap.to(".experiences .experience8 .content", 2, {
   scrollTrigger: {
-    trigger: ".services .service8 .content",
+    trigger: ".experiences .experience8 .content",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
-gsap.to(".services .service1 .title", 2, {
+gsap.to(".experiences .experience1 .title", 2, {
   scrollTrigger: {
-    trigger: ".services .service1 .title",
+    trigger: ".experiences .experience1 .title",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
-    scrub: true,
-  },
-  opacity: 1,
-});
-
-gsap.to(".services .service2 .title", 2, {
-  scrollTrigger: {
-    trigger: ".services .service2 .title",
-    start: "top 85%",
-    end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service3 .title", 2, {
+gsap.to(".experiences .experience2 .title", 2, {
   scrollTrigger: {
-    trigger: ".services .service3 .title",
+    trigger: ".experiences .experience2 .title",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service4 .title", 2, {
+gsap.to(".experiences .experience3 .title", 2, {
   scrollTrigger: {
-    trigger: ".services .service4 .title",
+    trigger: ".experiences .experience3 .title",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service5 .title", 2, {
+gsap.to(".experiences .experience4 .title", 2, {
   scrollTrigger: {
-    trigger: ".services .service5 .title",
+    trigger: ".experiences .experience4 .title",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service6 .title", 2, {
+gsap.to(".experiences .experience5 .title", 2, {
   scrollTrigger: {
-    trigger: ".services .service6 .title",
+    trigger: ".experiences .experience5 .title",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service7 .title", 2, {
+gsap.to(".experiences .experience6 .title", 2, {
   scrollTrigger: {
-    trigger: ".services .service7 .title",
+    trigger: ".experiences .experience6 .title",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
 });
 
-gsap.to(".services .service8 .title", 2, {
+gsap.to(".experiences .experience7 .title", 2, {
   scrollTrigger: {
-    trigger: ".services .service8 .title",
+    trigger: ".experiences .experience7 .title",
     start: "top 85%",
     end: "bottom 60%",
-    // markers: true,
+    scrub: true,
+  },
+  opacity: 1,
+});
+
+gsap.to(".experiences .experience8 .title", 2, {
+  scrollTrigger: {
+    trigger: ".experiences .experience8 .title",
+    start: "top 85%",
+    end: "bottom 60%",
     scrub: true,
   },
   opacity: 1,
@@ -448,7 +407,6 @@ gsap.to(".projects .project1", 2, {
     trigger: ".projects .project1",
     start: "top 85%",
     end: "65% 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
@@ -459,7 +417,6 @@ gsap.to(".projects .project2", 2, {
     trigger: ".projects .project2",
     start: "top 85%",
     end: "65% 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
@@ -470,7 +427,6 @@ gsap.to(".projects .project3", 2, {
     trigger: ".projects .project3",
     start: "top 85%",
     end: "65% 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
@@ -481,7 +437,6 @@ gsap.to(".projects .project4", 2, {
     trigger: ".projects .project4",
     start: "top 85%",
     end: "65% 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
@@ -492,7 +447,6 @@ gsap.to(".projects .project5", 2, {
     trigger: ".projects .project5",
     start: "top 85%",
     end: "65% 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
@@ -503,7 +457,6 @@ gsap.to(".projects .project6", 2, {
     trigger: ".projects .project6",
     start: "top 85%",
     end: "65% 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
@@ -514,7 +467,6 @@ gsap.to(".projects .project7", 2, {
     trigger: ".projects .project7",
     start: "top 85%",
     end: "65% 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
@@ -525,7 +477,6 @@ gsap.to(".projects .project8", 2, {
     trigger: ".projects .project8",
     start: "top 85%",
     end: "65% 60%",
-    // markers: true,
     scrub: true,
   },
   opacity: 1,
@@ -537,7 +488,6 @@ gsap.to(".footer .name", 2, {
     trigger: ".footer",
     start: "10% 90%",
     end: "bottom bottom",
-    // markers: true,
     scrub: true,
   },
   y: "-22vw",
