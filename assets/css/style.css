@@ -609,7 +609,7 @@ img {
 }
 
 .icons picture img {
-  width: 190px;
+  width: 150px;
 }
 
 @media screen and (max-width: 1300px) {
@@ -635,10 +635,6 @@ img {
 
   .icons picture:last-child {
     right: 17.5%;
-  }
-
-  .icons picture img {
-    width: 150px;
   }
 }
 
